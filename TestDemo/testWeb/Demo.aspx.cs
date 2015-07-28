@@ -13,5 +13,15 @@ namespace testWeb
         {
 
         }
+        public void add(float a, float b)
+        {
+            double c = a + b;
+            Response.Write("float");
+
+        }
+        public void add(double a, double b)
+        {
+            double c = a + b;
+        }
     }
 }

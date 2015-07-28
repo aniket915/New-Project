@@ -51,5 +51,10 @@ namespace testWeb
         {
             int a, b;
         }
+
+        public void add(double a, double b)
+        {
+            double c = a + b;
+        }
     }
 }
