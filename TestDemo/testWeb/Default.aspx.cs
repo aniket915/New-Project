@@ -47,5 +47,9 @@ namespace testWeb
 
             ClientScript.RegisterClientScriptBlock(this.GetType(), "alert", sb.ToString());
         }
+        public void Add()
+        {
+            int a, b;
+        }
     }
 }
