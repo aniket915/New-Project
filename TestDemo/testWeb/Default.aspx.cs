@@ -50,6 +50,10 @@ namespace testWeb
         public void Add()
         {
             int a, b;
+            a = 3;
+            b = 3;
+            a = a + b;
+            Response.Write("float");
         }
 
         public void add(double a, double b)
