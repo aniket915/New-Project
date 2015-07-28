@@ -58,7 +58,7 @@ namespace testWeb
 
         public void add(double a, double b)
         {
-            double c = a + b;
+            a= a + b;
         }
 
         public void sub(double a, double b)
