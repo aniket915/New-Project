@@ -28,6 +28,13 @@ namespace testWeb
 
             sb.Append("<script type = 'text/javascript'>");
 
+            string ab="testConnection";
+         // sb=ab;
+            sb = null;
+            Response.Write(ab);
+            Response.Write(sb);
+
+
             sb.Append("window.onload=function(){");
 
             sb.Append("alert('");
