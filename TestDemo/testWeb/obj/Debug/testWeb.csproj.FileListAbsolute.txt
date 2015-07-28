@@ -8,3 +8,7 @@ D:\Projects\Demoes\TestDemo\testWeb\bin\testWeb.pdb
 D:\Projects\Demoes\TestDemo\testWeb\obj\Debug\testWeb.csprojResolveAssemblyReference.cache
 D:\Projects\Demoes\TestDemo\testWeb\obj\Debug\testWeb.dll
 D:\Projects\Demoes\TestDemo\testWeb\obj\Debug\testWeb.pdb
+D:\Git\New-Project\TestDemo\testWeb\bin\testWeb.dll
+D:\Git\New-Project\TestDemo\testWeb\bin\testWeb.pdb
+D:\Git\New-Project\TestDemo\testWeb\obj\Debug\testWeb.dll
+D:\Git\New-Project\TestDemo\testWeb\obj\Debug\testWeb.pdb
