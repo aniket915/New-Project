@@ -56,5 +56,10 @@ namespace testWeb
         {
             double c = a + b;
         }
+
+        public void sub(double a, double b)
+        {
+            double c = a - b;
+        }
     }
 }
